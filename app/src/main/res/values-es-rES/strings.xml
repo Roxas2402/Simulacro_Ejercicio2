@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Simulacro_Ejercicio2</string>
+    <string name="num_productos">"Productos: "</string>
+    <string name="importe">"Importe total: "</string>
+    <string name="producto">"Producto: "</string>
+    <string name="nombre">"Nombre: "</string>
+    <string name="cantidad">"Cantidad: "</string>
+    <string name="precio">"Precio: "</string>
+    <string name="agregar">AGREGAR</string>
+    <string name="alert_eliminar">¿Eliminar?</string>
+    <string name="confirmar_borrar">Eliminar</string>
+    <string name="cancelar_accion">Cancelar</string>
+</resources>
